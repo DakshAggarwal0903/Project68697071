@@ -1,0 +1,61 @@
+#marqueeStyle {
+    background-color: cornflowerblue;
+}
+
+html {
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+#Achievements {
+    background-color: chartreuse;
+}
+
+body {
+    background-image: linear-gradient(forestgreen, limegreen);
+}
+
+#Us {
+    background-color: chartreuse;
+}
+
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+
+.travel_mainDiv h5,
+p {
+    margin-left: 20px;
+}
+
+movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    width: 10%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+
+
+.row {
+    content: "";
+    clear: both;
+    display: table
+}
